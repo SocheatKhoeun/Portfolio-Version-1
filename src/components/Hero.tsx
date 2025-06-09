@@ -44,7 +44,7 @@ const Hero = () => {
           {/* Image */}
           <div className="flex-shrink-0">
             <img
-              src="images/michie.webp"
+              src="images/zoro.jpg"
               alt="Profile"
               className="w-full h-80 object-cover border-4 border-primary/30 shadow-lg"
             />
