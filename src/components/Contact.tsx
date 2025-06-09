@@ -34,19 +34,19 @@ const Contact = () => {
     {
       icon: Mail,
       title: "Email",
-      details: "john.doe@example.com",
-      link: "mailto:john.doe@example.com"
+      details: "SocheatKhoeun06@gmail.com",
+      link: "SocheatKhoeun06@gmail.com.com"
     },
     {
       icon: Phone,
       title: "Phone",
-      details: "+1 (555) 123-4567",
-      link: "tel:+15551234567"
+      details: "+(855) 973 577 644",
+      link: "tel:0973577644"
     },
     {
       icon: MapPin,
       title: "Location",
-      details: "San Francisco, CA",
+      details: "Phnom Penh, Cambodia",
       link: "#"
     }
   ];
